@@ -1,0 +1,13 @@
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\bin\Debug\消除元素地图配置器.exe.config
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\bin\Debug\消除元素地图配置器.exe
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\bin\Debug\消除元素地图配置器.pdb
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.MainForm.resources
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.Properties.Resources.resources
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.csproj.GenerateResource.Cache
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.exe
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.pdb
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.MapControl.resources
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\bin\Debug\System.Data.SQLite.dll
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.InfoControl.resources
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.SaveCfgForm.resources
+E:\消除游戏配置工程\消除元素地图配置器\消除元素地图配置器\obj\Debug\消除元素地图配置器.ExportForm.resources
